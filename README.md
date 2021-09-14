@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPMurara (Joao)
-- 👀 I’m interested in learning the basics of front-end
+- 👀 I’m interested studying front end at Udemy
 - 🌱 I’m currently learning javascript, css, html
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to set a portfolio of personal projects to show case my skills
 - 📫 How to reach me joaopaulo.murara@gmail.com
 
 <!---
