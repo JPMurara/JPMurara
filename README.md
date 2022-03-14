@@ -6,4 +6,6 @@
 
 Technologies
 
+![alt text](https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/js%20logo.png)
+
 Please, check my <p> <a href="https://www.linkedin.com/in/joao-murara-52220511b/")><img width="35" height="35" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/linkedin.png"</img></a>
