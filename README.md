@@ -9,3 +9,9 @@
 <img align="left" alt="JS" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/js%20logo.png" style="max-width:100%;">  
 <img align="left" alt="Bootstrap" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/bootstrap%20logo.png" style="max-width:100%;">  
 <img align="left" alt="CSS" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/CSS3_logo_and_wordmark.svg.png" style="max-width:100%;">  
+
+<br></br>
+## My projects:
+https://github.com/JPMurara/bootcampProject-scoreKeeper <br></br>
+https://github.com/JPMurara/bootcampProject-museumOfCandy<br></br>
+https://github.com/JPMurara/bootcampProject-pricingPannel
