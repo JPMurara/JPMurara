@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript, css, html
 - 💞️ I’m looking to set a portfolio of personal projects to show case my skills
 - 📫 How to reach me joaopaulo.murara@gmail.com
+- Please check my <a href="https://www.linkedin.com/in/joao-murara-52220511b/">LinkedIn</a>
 
 ## Technologies
 <img align="left" alt="HTML5" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/html%20logo.png" style="max-width:100%;">  
