@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joao Murara
-- 👀 I’m studying front end at Udemy
+- 👀 I’m studying front end at Udemy and looking for my first job opportuity
 - 🌱 I’m currently learning javascript, css, html
-- 💞️ I’m looking to set a portfolio of personal projects to show case my skills
 - 📫 How to reach me joaopaulo.murara@gmail.com
 - Please check my <a href="https://www.linkedin.com/in/joao-murara-52220511b/">LinkedIn</a>
 
