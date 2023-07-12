@@ -6,6 +6,7 @@ Check my <a href="https://www.linkedin.com/in/joao-murara/">LinkedIn</a>
 
 ## My projects:
 https://github.com/JPMurara/wordle <br></br>
+https://github.com/JPMurara/join_us_sql_project <br></br>
 https://github.com/JPMurara/bootcampProject-scoreKeeper <br></br>
 https://github.com/JPMurara/bootcampProject-museumOfCandy<br></br>
 https://github.com/JPMurara/bootcampProject-pricingPannel
