@@ -2,7 +2,7 @@ Driven by a passion for technology and a desire to create meaningful application
 
 With a strong aptitude for problem-solving, analytical thinking, and effective communication, I thrive in collaborative environments and excel in leading teams to deliver exceptional results. My knowledge in HTML, CSS (including Bootstrap and Bulma), JavaScript, Node.js, Express, Python (Flask), SQL (MySQL, MS SQL Server, Postgres) and NoSQL (MongoDB) empowers me to tackle complex challenges and create innovative solutions.
 
-Check my <a href="https://www.linkedin.com/in/joao-murara-52220511b/">LinkedIn</a>
+Check my <a href="https://www.linkedin.com/in/joao-murara/">LinkedIn</a>
 
 ## My projects:
 https://github.com/JPMurara/wordle <br></br>
