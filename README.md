@@ -1,17 +1,10 @@
-- 👋 Hi, I’m Joao Murara
-- 👀 I’m studying front end at Udemy and looking for my first job opportuity
-- 🌱 I’m currently learning javascript, css, html
-- 📫 How to reach me joaopaulo.murara@gmail.com
-- Please check my <a href="https://www.linkedin.com/in/joao-murara-52220511b/">LinkedIn</a>
+Driven by a passion for technology and a desire to create meaningful applications that enhance processes and people's lives, I am a versatile professional with a diverse background in IT support, industrial automation, sales and hospitality management. Equipped with an academic foundation in coding acquired through university and a comprehensive bootcamp experience, I am now transitioning into a software developer career.
+Check my <a href="https://www.linkedin.com/in/joao-murara-52220511b/">LinkedIn</a>
 
-## Technologies
-<img align="left" alt="HTML5" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/html%20logo.png" style="max-width:100%;">  
-<img align="left" alt="JS" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/js%20logo.png" style="max-width:100%;">  
-<img align="left" alt="Bootstrap" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/bootstrap%20logo.png" style="max-width:100%;">  
-<img align="left" alt="CSS" width="32px" src="https://github.com/JPMurara/JPMurara/blob/main/Logos%20for%20GitHub/CSS3_logo_and_wordmark.svg.png" style="max-width:100%;">  
+With a strong aptitude for problem-solving, analytical thinking, and effective communication, I thrive in collaborative environments and excel in leading teams to deliver exceptional results. My knowledge in HTML, CSS (including Bootstrap and Bulma), JavaScript, Node.js, Express, Python (Flask), SQL (MySQL, MS SQL Server, Postgres) and NoSQL (MongoDB) empowers me to tackle complex challenges and create innovative solutions.
 
-<br></br>
 ## My projects:
+https://github.com/JPMurara/wordle <br></br>
 https://github.com/JPMurara/bootcampProject-scoreKeeper <br></br>
 https://github.com/JPMurara/bootcampProject-museumOfCandy<br></br>
 https://github.com/JPMurara/bootcampProject-pricingPannel
